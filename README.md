@@ -1,3 +1,21 @@
+## Dynamic Alert Component
+
+This is a simple React TypeScript project that includes a dynamic alert component with multiple alert types, styled using SCSS.
+
+## Introduction
+
+The Dynamic Alert Component is a reusable and customizable alert component for React applications. It supports different alert types such as default, info, warning, error, and success, each with its own unique styles.
+
+## Features
+
+- Dynamic alert component with customizable props
+
+- Supports various alert types
+
+- Styled using SCSS for easy customization
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
